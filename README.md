@@ -12,7 +12,7 @@ Objetivos:
           - Crear un recurso pedagogico para quien requiera practicar y/o discutir los temas.
           
 
-En cada cuaderno se encuentra la numeracion de los ejercicios resueltos, ademas de los pasos previos para la configuracion del entorno virtual, la conexion, y una exploracion de la base de datos. Todo esto adaptado a la variacion particular de SQL.
+En el nombre de cada cuaderno se indica el nombre del IDE para el cual fue hecho, como la numeracion de los ejercicios resueltos. Dentro, los pasos previos para la configuracion del entorno virtual, la conexion, y una exploracion de la base de datos. Todo esto adaptado a la variacion particular de SQL.
 Aunque no se realiza ninguna manipulacion de los datos, cada consulta se aloja en un dataframe de pandas, como un preliminar de practica al analisis de datos.
 
 Poco a poco ire agregando los SCRIPT's que permiten la creacion de la base de datos en el IDE correspondiente.
