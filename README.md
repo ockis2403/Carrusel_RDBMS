@@ -17,6 +17,14 @@ Aunque no se realiza ninguna manipulacion de los datos, cada consulta se aloja e
 
 Poco a poco ire agregando los SCRIPT's que permiten la creacion de la base de datos en el IDE correspondiente.
 
+Los IDE's que utilizare son:
+          - MySQL Workbench
+          - SQLite
+          - Sql Server
+          - IBM Db2
+          - Oracle
+          
+
 Tambien incluire una suerte de galeria de los diagramas de Entidad-Relacion. Me resulta interesante ver los resultados de cada uno.
 
 Por ultimo, tambien dejare un documento con los problemas sin resolver. Es asi que todo junto, el SCRIPT, el diagrama, las preguntas y los cuadernos de Jupyter forman un recurso pedagogico de practica.
