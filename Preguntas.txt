@@ -1,0 +1,38 @@
+CLÁUSULA WHERE
+1. Encuentre a todos los miembros del personal cuyo nombre empiece por 'H'.
+
+2. Quienes son las enfermeras y enfermeros que trabajan en turnos de Tarde o Mañana?
+
+3. Haga un listado de las enfermeras que ganan entre 2.000.000 y 2.500.000 Pts.
+
+FUNCIONES DE CADENA
+4. Mostrar, para todos los hospitales, el código de hospital, el nombre completo del hospital
+y su nombre abreviado de tres letras (a esto podemos llamarlo ABR) Ordenar la recuperación por esta abreviatura.
+
+5. En la tabla DOCTOR otorgar a Cardiología un código de 1, a Psiquiatría un código de 2, a Pediatría un código de 3 
+y a cualquier otra especialidad un código de 4. Recuperar todos los doctores, su especialidad y el código asignado.
+
+6. Hacer un listado de los nombres de los pacientes y la posición de la primera letra 'A' que aparezca 
+en su apellido, tomando como referencia la primera letra del mismo
+
+7. Queremos conseguir:
+
+COMENTARIO
+ --------------------
+El departamento de CONTABILIDAD esta en SEVILLA
+El departamento de INVESTIGACIÓN esta en MADRID
+El departamento de VENTAS esta en BARCELONA
+El departamento de PRODUCCIÓN esta en BILBAO
+
+
+8. Para cada empleado cuyo apellido contenga una "N", queremos que nos devuelva "nnn", 
+pero solo para la primera ocurrencia de la "N". La salida debe estar ordenada por apellido ascendentemente.
+
+9. Para cada empleado se pide que salga su salario total (salario mas comisión) y luego su salario fragmentado,
+es decir, en centenas de mil, decenas de mil... decenas y unidades. La salida debe estar ordenada por el salario 
+y el apellido descendéntemente
+
+10. Para cada empleado que no tenga comisión o cuya comisión sea mayor que el 15% de su
+salario, se pide el salario total que tiene. Este será: si tiene comisión su salario mas su comisión, 
+y si no tiene, su salario mas su nueva comisión (15% del salario). La salida deberá estar ordenada por
+el oficio y por el salario que le queda descendéntemente.
