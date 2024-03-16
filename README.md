@@ -6,7 +6,7 @@ En este repositorio voy alojar diversos cuadernos donde resuelvo los 75 ejercici
 Objetivos:
 - Practicar modelos de "Cliente - Servidor" en Python.
 - Practicar busquedas con lenguaje SQL generico.
-- Practicar en diversos RDBMS que me permita adaptabilidad.
+- Practicar en diversos RDBMS para familiarizarme con su particularidad.
 - Practicar la elaboracion de SCRIPT's adaptados a la variacion de SQL particular de cada RDBMS,
 - Practicar con los IDE's y sus herramientas graficas para los diagrmas de Entidad-Relacion.
 - Crear un recurso pedagogico para quien requiera practicar y/o discutir los temas.
