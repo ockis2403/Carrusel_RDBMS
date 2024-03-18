@@ -36,3 +36,33 @@ y el apellido descendéntemente
 salario, se pide el salario total que tiene. Este será: si tiene comisión su salario mas su comisión, 
 y si no tiene, su salario mas su nueva comisión (15% del salario). La salida deberá estar ordenada por
 el oficio y por el salario que le queda descendéntemente.
+
+OPERADORES Y FUNCIONES DE FECHAS
+
+11. Encuentre a todas las enfermeras y enfermeros con indicación del salario mensual de cada uno.
+
+12. Que fecha fue hace tres semanas?
+
+13. Se pide el nombre, oficio y fecha de alta del personal del departamento 20 que ganan mas de 150000 ptas. mensuales.
+
+14. Se pide el nombre, oficio y el día de la semana en que han sido dados de alta los empleados de la empresa, 
+pero solo de aquellos cuyo día de alta haya sido entre martes y jueves. Ordenado por oficio.
+
+15. Para todos los empleados, el día en que fueron dados de alta en la empresa debe estar ordenada por el día 
+de la semana (Lunes, Martes ... Viernes) . Los días no laborables serán "Fin de semana".
+
+CLÁUSULA GROUP BY 
+
+16.Encontrar el salario medio de los Analistas.
+
+17. Encontrar el salario mas alto y el salario mas bajo de la tabla de empleados, así como la diferencia entre ambos.
+
+18. Calcular el numero de oficios diferentes que hay, en total, en los departamentos 10 y 20 de la empresa.
+
+19. Calcular el numero de personas que realizan cada oficio en cada departamento.
+
+20. Buscar que departamentos tienen mas de cuatro personas trabajando.
+
+
+
+
