@@ -19,13 +19,13 @@ Poco a poco ire agregando los SCRIPT's que permiten la creacion de la base de da
 
 Los IDE's que utilizare son:
 - MySQL Workbench
-- SQLite
+- DB Browser SQLite
 - Sql Server
 - IBM Db2
 - Oracle
           
 
-Tambien incluire una suerte de galeria de los diagramas de Entidad-Relacion. Me resulta interesante ver los resultados de cada uno.
+Tambien incluire una suerte de galeria de los diagramas de Entidad-Relacion que realice en cada IDE. DB Browser no incluye un editor para diagramas, asi que utilice DBSchema, que tambien es compatible con SQLite. Me resulta interesante ver los resultados de cada uno.
 
 Por ultimo, tambien dejare un documento con los problemas sin resolver. Es asi que todo junto, el SCRIPT, el diagrama, las preguntas y los cuadernos de Jupyter forman un recurso pedagogico de practica.
 
