@@ -63,6 +63,27 @@ CLÁUSULA GROUP BY
 
 20. Buscar que departamentos tienen mas de cuatro personas trabajando.
 
+21. Buscar que departamentos tienen mas de dos personas trabajando en la misma profesión
 
+22. Se desea saber el numero de empleados por departamento que tienen por oficio de "EMPLEADO". La salida debe estar ordenada por el numero de departamento.
 
+23. Se desea saber el salario total (salario mas comisión) medio anual de los vendedores de nuestra empresa.
 
+24. Se desea saber el salario total (salario mas comisión) medio anual, tanto de los empleados como de los vendedores de nuestra empresa.
+
+25. Se desea saber para cada departamento y en cada oficio, el maximo salario y la suma total de salarios, pero solo de aquellos departamentos y oficios cuya suma salarial supere o sea igual que el 50% de su maximo salario. En el muestreo, solo se estudiaron aquellos empleados que no tienen comisión o la tengan menor que el 25% de su salario.
+
+26. Se desea saber para cada oficio, dentro de cada año de alta distinto que existe en nuestra empresa, el numero de empleados y la media salarial que tiene. Para este estudio, no se tendrá en cuenta a los empleados que no hayan sido dados de alta en un día laboral. Además, solo se desea saber estos datos, de aquellos oficios y años que tienen mas de un empleado. La salida debe estar ordenada por el año de alta y la media salarial descendéntemente.
+
+27. Se desea saber, para cada inicial de apellido que exista en la empresa (tratando solo las iniciales consonantes),el maximo salario que tiene asociada. No se tendrá en cuenta en el estudio a aquellos empleados que contengan su apellido mas de una "N". La salida debe estar ordenada por la inicial.
+
+28. Se desea obtener un informe matriz como el que se presenta, en el que la coordenada vertical hace referencia a los distintos oficios existentes en la empresa, y la coordenada horizontal a los distintos departamentos. Los valores de la matriz, indicaran la suma de salarios por oficio y departamento. La ultima columna indica la suma total de salarios por oficio.
+
+29. Se desea saber para cada departamento y oficio, la suma total de comisiones, teniendo en cuenta que para los empleados que no tienen comisión, se les asignara:
+El 10% de su salario si son del departamento 10.
+El 15% de su salario si son del departamento 20.
+El 17% de su salario si son del departamento 30.
+Cualquier otro departamento, el 5% de su salario.
+No se tendrá en cuenta a los empleados que hayan sido dados de alta después de 1981, ni al que ostente el cargo de "PRESIDENTE".
+
+30.- Queremos saber el máximo, el mínimo y la media salarial, de cada departamento de la empresa
