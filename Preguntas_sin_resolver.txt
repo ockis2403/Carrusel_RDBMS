@@ -97,28 +97,28 @@ No se tendrá en cuenta a los empleados que hayan sido dados de alta después de
 34. se desea conocer cuantos empleados existen en cada departamento. Devolviendo una salida como la que se presenta (deberá estar ordenada por el numero de empleados descendéntemente).
 
 NUM-DEP	DEPARTAMENTO	N-EMPL
-30	    VENTAS	        6
-20	    INVESTIGACIÓN	 5
-10	    CONTABILIDAD	  3
+30	VENTAS	6
+20	INVESTIGACIÓN	5
+10	CONTABILIDAD	3
 
 
 35. Se desea conocer, tanto para el departamento de VENTAS, como para el de CONTABILIDAD, su maximo, su mínimo y su media salarial, así como el numero de empleados en cada departamento. La salida deberá estar ordenada por el nombre del departamento, y se deberá presentar como la siguiente:
- 
-|DNOMBRE|MAXIMO|MÍNIMO|MEDIA|N-EMPL|
-|:---------------:|:------------:|:------------:|:------------:|:-------:|
-|CONTABILIDAD|650000|169000|379166.667|3|
-|VENTAS|370500|123500|203666.667|6|
+
+DNOMBRE	MAXIMO	MÍNIMO	MEDIA	N-EMPL
+CONTABILIDAD	650000	169000	379166.667	3
+VENTAS	370500	123500	203666.667	6
 
 36. Se desea conocer el maximo salario que existe en cada sala de cada hospital, dando el resultado como sigue
-|HOSPITAL|SALA|MAXIMO|
-|:-------------:|:------------:|:-------------:|
-|General|Cardiología|3379000|
-|La Paz|Maternidad|2210000|
-|La Paz|Psiquiátrico|2005000|
-|La Paz|Recuperación|2119000|
-|Provincial|Psiquiátrico|2755000|
-|San Carlos|Cardiología|2210000|
-|San Carlos|Recuperación|2522000|
+
+HOSPITAL	SALA	MAXIMO
+General	Cardiología	3379000
+La Paz	Maternidad	2210000
+La Paz	Psiquiátrico	2005000
+La Paz	Recuperación	2119000
+Provincial	Psiquiátrico	2755000
+San Carlos	Cardiología	2210000
+San Carlos	Recuperación	2522000
+
 
 37. Se desea obtener un resultado como el que aparece, en el que se presenta el numero, nombre y oficio de cada empleado de nuestra empresa que tiene jefe, y lo mismo de su jefe directo. La salida debe estar ordenadA por el nombre del empleado
 EMPLEADO	NOMBRE	OFICIO	JEFE	NOMBRE	OFICIO
@@ -136,3 +136,14 @@ EMPLEADO	NOMBRE	OFICIO	JEFE	NOMBRE	OFICIO
 7369	SANCHEZ	EMPLEADO	7902	FERNANDEZ	ANALISTA
 7844	TOVAR	VENDEDOR	7698	NEGRO	DIRECTOR
 
+38. Se desea conocer, para todos los departamentos existentes, el mínimo salario de cada departamento, mostrando el resultado como aparece. Para el muestreo del mínimo salario, no queremos tener en cuenta a las personas con oficio de EMPLEADO. La salida estará ordenada por el salario descendéntemente.
+
+DEPARTAMENTO	MÍNIMO
+INVESTIGACIÓN	386750
+CONTABILIDAD	318500
+VENTAS	162500
+OPERACIONES	0
+
+39. Se desea sacar un listado con el mismo formato del ejercicio 37 tal y como el que aparece, pero ahora también se desea sacar al jefe de la empresa como empleado, pues en el listado del citado ejercicio no aparecía.
+
+40. Se desea obtener un listado como el que aparece, es decir, como el del ejercicio 37, pero obteniendo además todos aquellos empleados que no son jefes de nadie en la parte de jefe, para que se vea gráficamente que no tienen subordinados a su cargo.¶
