@@ -87,3 +87,52 @@ Cualquier otro departamento, el 5% de su salario.
 No se tendrá en cuenta a los empleados que hayan sido dados de alta después de 1981, ni al que ostente el cargo de "PRESIDENTE".
 
 30.- Queremos saber el máximo, el mínimo y la media salarial, de cada departamento de la empresa
+
+31. Listar, a partir de las tablas EMPLEADO y DEPARTAMENTO, el nombre de cada empleado, su oficio, su numero de departamento y el nombre del departamento donde trabajan
+
+32. Seleccionar los nombres, profesiones y localidades de los departamentos donde trabajan los Analistas.
+
+33. Se desea conocer el nombre y oficio de todos aquellos empleados que trabajan en Madrid. La salida deberá estar ordenada por el oficio.
+
+34. se desea conocer cuantos empleados existen en cada departamento. Devolviendo una salida como la que se presenta (deberá estar ordenada por el numero de empleados descendéntemente).
+
+NUM-DEP	DEPARTAMENTO	N-EMPL
+30	    VENTAS	        6
+20	    INVESTIGACIÓN	 5
+10	    CONTABILIDAD	  3
+
+
+35. Se desea conocer, tanto para el departamento de VENTAS, como para el de CONTABILIDAD, su maximo, su mínimo y su media salarial, así como el numero de empleados en cada departamento. La salida deberá estar ordenada por el nombre del departamento, y se deberá presentar como la siguiente:
+ 
+|DNOMBRE|MAXIMO|MÍNIMO|MEDIA|N-EMPL|
+|:---------------:|:------------:|:------------:|:------------:|:-------:|
+|CONTABILIDAD|650000|169000|379166.667|3|
+|VENTAS|370500|123500|203666.667|6|
+
+36. Se desea conocer el maximo salario que existe en cada sala de cada hospital, dando el resultado como sigue
+|HOSPITAL|SALA|MAXIMO|
+|:-------------:|:------------:|:-------------:|
+|General|Cardiología|3379000|
+|La Paz|Maternidad|2210000|
+|La Paz|Psiquiátrico|2005000|
+|La Paz|Recuperación|2119000|
+|Provincial|Psiquiátrico|2755000|
+|San Carlos|Cardiología|2210000|
+|San Carlos|Recuperación|2522000|
+
+37. Se desea obtener un resultado como el que aparece, en el que se presenta el numero, nombre y oficio de cada empleado de nuestra empresa que tiene jefe, y lo mismo de su jefe directo. La salida debe estar ordenadA por el nombre del empleado
+EMPLEADO	NOMBRE	OFICIO	JEFE	NOMBRE	OFICIO
+7876	ALONSO	EMPLEADO	7788	GIL	ANALISTA
+7499	ARROYO	VENDEDOR	7698	NEGRO	DIRECTOR
+7782	CEREZO	DIRECTOR	7839	REY	PRESIDENTE
+7902	FERNANDEZ	ANALISTA	7566	JIMENEZ	DIRECTOR
+7788	GIL	ANALISTA	7566	JIMENEZ	DIRECTOR
+7566	JIMENEZ	DIRECTOR	7839	REY	PRESIDENTE
+7900	JIMENO	EMPLEADO	7698	NEGRO	DIRECTOR
+7654	MARTIN	VENDEDOR	7698	NEGRO	DIRECTOR
+7934	MUÑOZ	EMPLEADO	7782	CEREZO	DIRECTOR
+7698	NEGRO	DIRECTOR	7839	REY	PRESIDENTE
+7521	SALA	VENDEDOR	7698	NEGRO	DIRECTOR
+7369	SANCHEZ	EMPLEADO	7902	FERNANDEZ	ANALISTA
+7844	TOVAR	VENDEDOR	7698	NEGRO	DIRECTOR
+
