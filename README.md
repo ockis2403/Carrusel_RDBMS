@@ -21,7 +21,7 @@ Los IDE's que utilizare son:
 - MySQL Workbench
 - DB Browser SQLite
 - Sql Server
-- IBM Db2
+- IBM Db2 on cloud
 - Oracle
           
 
