@@ -86,6 +86,8 @@ El 17% de su salario si son del departamento 30.
 Cualquier otro departamento, el 5% de su salario.
 No se tendrá en cuenta a los empleados que hayan sido dados de alta después de 1981, ni al que ostente el cargo de "PRESIDENTE".
 
+COMBINACIONES DE TABLAS
+
 30.- Queremos saber el máximo, el mínimo y la media salarial, de cada departamento de la empresa
 
 31. Listar, a partir de las tablas EMPLEADO y DEPARTAMENTO, el nombre de cada empleado, su oficio, su numero de departamento y el nombre del departamento donde trabajan
