@@ -149,3 +149,25 @@ OPERACIONES	0
 39. Se desea sacar un listado con el mismo formato del ejercicio 37 tal y como el que aparece, pero ahora también se desea sacar al jefe de la empresa como empleado, pues en el listado del citado ejercicio no aparecía.
 
 40. Se desea obtener un listado como el que aparece, es decir, como el del ejercicio 37, pero obteniendo además todos aquellos empleados que no son jefes de nadie en la parte de jefe, para que se vea gráficamente que no tienen subordinados a su cargo.¶
+
+41. Se desea obtener un listado combinación de los dos ejercicios anteriores (39 Y 40).
+
+SUBCONSULTAS
+
+42. Obtener el apellido, departamento y oficio de aquellos empleados que tengan un oficio que este en el departamento 20 y que no sea ninguno de los oficios que esta en el departamento de VENTAS.
+
+43. Obtener el numero de empleado, numero de departamento y apellido de todos los empleados que trabajen en el departamento 20 o 30 y su salario sea mayor que dos veces el mínimo de la empresa. No queremos que el oficio sea PRESIDENTE.
+
+44. Encontrar las personas que ganan 50000 PTA mas que el miembro del personal de sueldo mas alto del turno de mañana y que tenga el mismo trabajo que el Sr. Nuñez.
+
+45. Queremos averiguar el apellido del individuo mas antiguo de la empresa.
+
+46. Presentar los nombres y oficios de los empleados que tienen el mismo trabajo que JIMENEZ.
+
+47. Queremos conocer el apellido, oficio, salario y departamento en el que trabajan, de todos los individuos cuyo salario sea mayor que el mayor salario del departamento 30.
+
+48. Presentar los nombres y oficios de todos los empleados del departamento 20, cuyo trabajo sea idéntico al de cualquiera de los empleados del departamento de VENTAS.
+
+49. Se desea obtener todos los empleados de los departamentos que no ganan ni el maximo ni el mínimo salarial de la empresa
+
+50. Se desea obtener el maximo salario por departamento, sin tener en cuenta a aquellos empleados cuyo apellido empieza con la inicial de alguno de los empleados que tienen el maximo salario de algún departamento. Tampoco queremos obtener los datos de departamentos con menos de 3 personas muestreadas
