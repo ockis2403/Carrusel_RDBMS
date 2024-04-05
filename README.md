@@ -7,9 +7,12 @@ Objetivos:
 - Practicar modelos de "Cliente - Servidor" en Python.
 - Practicar busquedas con lenguaje SQL generico.
 - Practicar en diversos RDBMS para familiarizarme con su particularidad.
-- Practicar la elaboracion de SCRIPT's adaptados a la variacion de SQL particular de cada RDBMS,
+- Practicar la elaboracion de SCRIPT's adaptados a la variacion de SQL particular de cada RDBMS.
+- Practicar la elaboracion de SCRIPT'S en Visual Basic for Applications.
 - Practicar con los IDE's y sus herramientas graficas para los diagrmas de Entidad-Relacion.
 - Crear un recurso pedagogico para quien requiera practicar y/o discutir los temas.
+- Crear conexiones entre aplicaciones de Microsoft (Access y Excel).
+  
           
 
 En el nombre de cada cuaderno se indica el nombre del IDE para el cual fue hecho, como la numeracion de los ejercicios resueltos. Dentro, los pasos previos para la configuracion del entorno virtual, la conexion, y una exploracion de la base de datos. Todo esto adaptado a la variacion particular de SQL.
@@ -22,6 +25,7 @@ Los IDE's que utilizare son:
 - DB Browser SQLite
 - Sql Server
 - IBM Db2 on cloud
+- MS Access
 - Oracle
           
 
