@@ -171,3 +171,38 @@ SUBCONSULTAS
 49. Se desea obtener todos los empleados de los departamentos que no ganan ni el maximo ni el mínimo salarial de la empresa
 
 50. Se desea obtener el maximo salario por departamento, sin tener en cuenta a aquellos empleados cuyo apellido empieza con la inicial de alguno de los empleados que tienen el maximo salario de algún departamento. Tampoco queremos obtener los datos de departamentos con menos de 3 personas muestreadas
+
+51. Se desea averiguar el numero de oficios por departamento, sin tener en cuenta en el muestreo a aquellos individuos que están en alguno de los departamentos que contienen VENDEDORES. La salida de la consulta será como la siguiente.
+
+NUMERO        NUM-DEP          NOMBRE
+------------- --------------- ---------------
+3             10              CONTABILIDAD
+3             20              INVESTIGACIÓN
+0             40              PRODUCCIÓN
+
+52. Sacar con el formato que aparece abajo, el apellido departamento y sueldo del empleado que mas gana en la empresa y del que menos.
+
+DEP MAXIMO APELLIDO DEP MÍNIMO APELLIDO
+--- -----  ------   ---  ------  ------
+10 650000  REY      20   104000 SANCHEZ
+
+53. En que departamento se dio de alta a mas empleados en Diciembre.
+
+54. Se desea obtener, para cada departamento, su mínimo y su maximo salarial. Para ello, no se tendrá en cuenta a los empleados cuya primera letra de su apellido, coincida con la inicial del nombre del departamento en que trabajan. Asimismo, se tendrá en cuenta a aquellos departamentos cuya diferencia entre el maximo y el mínimo exceda la media salarial de toda la empresa.
+
+55. Queremos saber el nombre de el empleado mas joven de cada departamento, así como el nombre de este.
+
+56. Se desea saber el nombre, oficio y departamento del empleado que más gana del departamento con la media salarial más alta.
+
+57. Se desea obtener información sobre todos los empleados que son jefes de alguien.
+
+58. Recuperar el numero (empleado_no) y nombre de las personas que perciban un salario > que la media de su hospital.
+
+INSERCIONES
+
+59. Insertar en la tabla Plantilla al Garcia J. con un sueldo de 3000000 ptas, y número de empleado 1234. Trabaja en el hospital 22, sala2.
+
+60. Insertar la misma fila anterior sin indicar en que campos se insertan. Por qué no se indican?
+
+
+
