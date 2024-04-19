@@ -202,7 +202,34 @@ INSERCIONES
 
 59. Insertar en la tabla Plantilla al Garcia J. con un sueldo de 3000000 ptas, y número de empleado 1234. Trabaja en el hospital 22, sala2.
 
-60. Insertar la misma fila anterior sin indicar en que campos se insertan. Por qué no se indican?
+60. Insertar la misma fila anterior sin indicar en que campos se insertan. ¿Por qué no se indican?
+
+61. Esta inserción falla. ¿Por qué?.
+INSERT INTO PLANTILLA (empleado_no, apellido) VALUES (1234,'Garcia J)
+
+62. En esta inserción no se contemplan todos los campos de la tabla, ¿Falla la inserción?.
+INSERT INTO PLANTILLA (hospital_cod, sala_cod, empleado_no, apellido) VALUES (2,22,1234,'Garcia J');
+
+ACTUALIZACIONES.
+
+63. Cambiar al paciente (tabla ENFERMO) número 74835 la dirección a Alcala 411.
+
+64. Poner todas las direcciones de la tabla ENFERMO a null.
+
+65. Igualar la dirección y fecha de nacimiento del paciente 10995 a los valores de las columnas correspondientes almacenadas para el paciente 14024.
+
+66. En todos los hospitales del país se ha recibido un aumento del presupuesto, por lo que se incrementará el número de camas disponibles en un 10%. ¿Como se haría en SQL?.
+
+CREACIÓN DE TABLAS
+
+67.-Ejercicio a comentar su solución. Crear una tabla llamada hospital22 a partir de la tabla HOSPITAL.
+
+68.- Rellenar la tabla HOSPITALES22 con las filas de HOSPITAL. Da esto algún ¿problema? ¿Por que?
+Repetir la operación. ¿DA PROBLEMAS?
+
+69. Crearse una tabla llamada VARONES con la misma estructura que la tabla enfermo.
+
+70. Crear la tabla EMPLEADOS2 con la misma estructura que la tabla EMPLEADOS y conteniendo los datos de oficio PRESIDENTE o comisión mayor que el 25% del salario.
 
 
 
