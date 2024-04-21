@@ -231,5 +231,19 @@ Repetir la operación. ¿DA PROBLEMAS?
 
 70. Crear la tabla EMPLEADOS2 con la misma estructura que la tabla EMPLEADOS y conteniendo los datos de oficio PRESIDENTE o comisión mayor que el 25% del salario.
 
+71.
+Crear una vista desde los registros de la Tabla EMPLEADOS para los departamentos 10 y 20
+Crear una vista para los departamentos 10 y 30.
+Hacer una JOIN de las dos vistas anteriores.
+
+72. Hacer una JOIN de la tabla DEPARTAMENTO y la vista de los departamentos 10 y 20.
+
+73. Se va a realizar un programa de consulta de la información sobre enfermos. Los datos a mostrar serán sus apellidos, dirección, fecha de nacimiento y hospital en el que se encuentran. ¿Qué vista se definirá?. ¿Es posible modificar datos a través de la vista anterior?.¶
+
+74. Estudiar esta vista.
+CREATE VIEW EMP_CUA AS SELECT DEPT_NO, SUM(SALARIO) SALARIOTOTAL FROM EMPLEADO
+
+75. Crear una vista para el departamento 10 con la cláusula with check option. ¿Qué ocurre?.
+
 
 
