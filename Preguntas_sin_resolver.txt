@@ -114,7 +114,7 @@ VENTAS	370500	123500	203666.667	6
 
 HOSPITAL	SALA	MAXIMO
 General	Cardiología	3379000
-La Paz	Maternidad	2210000
+La Paz	Maternidad	3000000
 La Paz	Psiquiátrico	2005000
 La Paz	Recuperación	2119000
 Provincial	Psiquiátrico	2755000
