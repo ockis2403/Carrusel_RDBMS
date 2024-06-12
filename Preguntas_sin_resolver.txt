@@ -19,10 +19,10 @@ en su apellido, tomando como referencia la primera letra del mismo
 
 COMENTARIO
  --------------------
-El departamento de CONTABILIDAD esta en SEVILLA
-El departamento de INVESTIGACIÓN esta en MADRID
-El departamento de VENTAS esta en BARCELONA
-El departamento de PRODUCCIÓN esta en BILBAO
+El departamento de CONTABILIDAD esta en MADRID
+El departamento de INVESTIGACIÓN esta en BILBAO
+El departamento de VENTAS esta en SEVILLA
+El departamento de PRODUCCIÓN esta en MALAGA
 
 
 8. Para cada empleado cuyo apellido contenga una "N", queremos que nos devuelva "nnn", 
